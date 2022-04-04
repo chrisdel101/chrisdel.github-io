@@ -1,65 +1,100 @@
-### Software Developer
+## Software Developer 
 
-This is maninly what I do with myself nowadays. I find myself working on all things web, whether at a startup or enterprise level company.
+Eat, Sleep, Code. Over the years I've built up skills in a few areas, with these at the top:
 
-**Top Skills**
-- 5+ years JavaScript
-- 5+ years NodeJS
-- 5 years React
-- 3+ years Python
-- 3+ years C++/C
-- 1 year React Native
+### **Top Skills** 
 
-**Highlights include**
-- [Place Puppy](https://place-puppy.com/) : Used by developers and desingers and gets a few thousands hits a month
-- [Formula 1 Cards]](https://f1-cards.herokuapp.com) : Keeps fans up to date with F1 using an app for mobile. **Project in development** (and so is pretty rough right now)
+- 5+ years JavaScript 
 
-### Computer Science Student
+- 5+ years NodeJS 
 
-From art's grad to coding bootcamp surviror, I finally did the deed and started towards a CS degree. 
+- 5 years React 
 
-**Academic Focus** 
-- Object oriented design
-- Digital systems architecture 
-- Algorithm design and complexity
-- Introduction to operating stytems
-- Introduction to parsing and programming languages
-- C++, Scheme, Prolog (I really suck at Prolog) 
+- 3+ years Python 
 
-**Interests yet to be explored**
-- Computer graphics
-- WebGL
-- Crytopography
-- Security
+- 3+ years C++/C 
 
-### A Former Life
+- 1 year React Native 
 
-There was a time before code. 
+  
 
-```markdown
-Syntax highlighted code block
+### **Personal Projects** 
 
-# Header 1
-## Header 2
-### Header 3
+When not doing an iternship or working on some school assignment, I'm usually working on a personal project. 
+- This is my most current personal project's [code](https://github.com/chrisdel101/markdown): the worlds most complicated markdown editor. 
+- [In Development Demo](https://chrisdel101.github.io/markdown/)
+- I've learned how wrong my design choices were from the beginning and plan to write a simpler version based on what I've learned.
+##### Highlights Include
 
-- Bulleted
-- List
+- [Place Puppy](https://place-puppy.com/) : Used by developers and designers and gets a few thousands hits a month 
 
-1. Numbered
-2. List
+- [Formula 1 Cards](https://f1-cards.herokuapp.com): Keeps fans up to date with F1 using a mobile app. **Project in development** (and so is pretty rough right now) 
 
-**Bold** and _Italic_ and `Code` text
+  
+##### **Interests yet to be explored** 
 
-[Link](url) and ![Image](src)
-```
+I find myself working on all things web for startups and enterprise level companies. While this is mainly what I do nowadays, I do have other interests:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Mobile development - _React Native and true native platforms_ 
 
-### Jekyll Themes
+- AI (for idiots) - _I'm happy using tooling created by experts. I'll never be one of those AI experts myself._ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chrisdel101/chrisdel.github-io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Graphics and 3D animation 
 
-### Support or Contact
+- Signaling and protocols 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+
+### Computer Science Student 
+
+  
+
+From art's grad to coding bootcamp survivor, I'm now working towards a CS degree. It's stressful slog. I graduate in 2023. 
+
+  
+
+##### **Academic Focus**  
+
+- Object oriented design 
+
+- Digital systems architecture  
+
+- Algorithm design and complexity 
+
+- Introduction to operating systems 
+
+- Introduction to parsing and programming languages 
+
+- Introduction to networks 
+
+- C++, Scheme, Prolog (I really suck at Prolog)  
+
+  
+
+##### **Interests yet to be explored** 
+
+- Computer graphics 
+
+- WebGL 
+
+- Cryptography 
+
+- Security 
+
+- Signaling and advanced networking 
+
+  
+
+  
+
+### A Former Life 
+
+  
+
+There was a time before code. I used to do things like write and play music. 
+
+  
+
+Something from that era can be found [here](https://drumgodchris.blogspot.com/) 
+
+ 
