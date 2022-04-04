@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Software Developer
 
-You can use the [editor on GitHub](https://github.com/chrisdel101/chrisdel.github-io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is maninly what I do with myself nowadays. I find myself working on all things web, whether at a startup or enterprise level company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Computer Science Student
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From art's grad to coding bootcamp surviror, I finally did the deed and started towards a CS degree. 
+
+
+
+## Used-To-Be Writer/Musician
+
+There was a time before code. 
 
 ```markdown
 Syntax highlighted code block
