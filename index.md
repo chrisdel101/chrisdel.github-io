@@ -1,15 +1,38 @@
-## Software Developer
+### Software Developer
 
 This is maninly what I do with myself nowadays. I find myself working on all things web, whether at a startup or enterprise level company.
 
+**Top Skills**
+- 5+ years JavaScript
+- 5+ years NodeJS
+- 5 years React
+- 3+ years Python
+- 3+ years C++/C
+- 1 year React Native
 
-## Computer Science Student
+**Highlights include**
+- [Place Puppy](https://place-puppy.com/) : Used by developers and desingers and gets a few thousands hits a month
+- [Formula 1 Cards]](https://f1-cards.herokuapp.com) : Keeps fans up to date with F1 using an app for mobile. **Project in development** (and so is pretty rough right now)
+
+### Computer Science Student
 
 From art's grad to coding bootcamp surviror, I finally did the deed and started towards a CS degree. 
 
+**Academic Focus** 
+- Object oriented design
+- Digital systems architecture 
+- Algorithm design and complexity
+- Introduction to operating stytems
+- Introduction to parsing and programming languages
+- C++, Scheme, Prolog (I really suck at Prolog) 
 
+**Interests yet to be explored**
+- Computer graphics
+- WebGL
+- Crytopography
+- Security
 
-## Used-To-Be Writer/Musician
+### A Former Life
 
 There was a time before code. 
 
